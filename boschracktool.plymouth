@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=boschracktool
+Description=boschracktool animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/boschracktool
+ScriptFile=/usr/share/plymouth/themes/boschracktool/animated-boot.script
