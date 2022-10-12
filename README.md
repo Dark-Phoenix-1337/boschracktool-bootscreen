@@ -102,18 +102,3 @@ systemctl disable gdm.service
 `
 systemctl enable gdm-plymouth.service
 `
-
-
-
-
-### Credits
-Original repo by Eionix: https://github.com/krishnan793/PlymouthTheme-Cat/commits?author=krishnan793
-
-[![Video](https://4.bp.blogspot.com/-gG0MBGjEE9M/WBYXrOGrVGI/AAAAAAAABVE/auGpLRYf7jor4hu3jurYGcjaVBapHyAVACLcB/s320/8998adc40112985a8f29cf414925d390.gif)](https://www.youtube.com/watch?v=c6f478VBhtE)
-
-
-[Video] https://www.youtube.com/watch?v=c6f478VBhtE
-
-[Blog] http://eionix.blogspot.in/2016/10/plymouth-theme-for-ubuntu.html
-
-And if you want to check out my blog for more creative coding and unix customization stuff, check out https://www.jackalope.tech/blog
